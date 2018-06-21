@@ -24,7 +24,9 @@ With Homebrew installed, on osx you just need to run:
 
 ### install awscli
 [MacOS](https://docs.aws.amazon.com/cli/latest/userguide/cli-install-macos.html)
+
 [Linux](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-linux.html)
+
 Install the amazon aws cli tools. If you don't have python installed, use the bundled installer option
 [Bundle Installer](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-bundle.html)
 
