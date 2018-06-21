@@ -23,10 +23,10 @@ With Homebrew installed, on osx you just need to run:
 `sudo mv kops-linux-amd64 /usr/local/bin/kops`
 
 ### install awscli
-https://docs.aws.amazon.com/cli/latest/userguide/cli-install-macos.html
-https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-linux.html
+[MacOS](https://docs.aws.amazon.com/cli/latest/userguide/cli-install-macos.html)
+[Linux](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-linux.html)
 Install the amazon aws cli tools. If you don't have python installed, use the bundled installer option
-https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-bundle.html
+[Bundle Installer](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-bundle.html)
 
 ### create s3 bucket
 `aws s3api create-bucket --bucket <bucket-name> --region <region> --create-bucket-configuration LocationConstraint=<region>`
